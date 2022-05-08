@@ -84,6 +84,11 @@ background-image: url("images/kick.png");
 }
 
 @media (max-width:980px){
+  :root{
+    touch-action: pan-x pan-y;
+    height: 100% 
+  }
+  }
   .set-desktop{
     display:none;
   }
