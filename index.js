@@ -6,7 +6,13 @@ for (i = 0; i < numDrums; i++) {
     buttonanimation(this.innerHTML)
       });
 }
-
+//============================Touch event Handler============================//
+document.addEventListener("",function(){
+  document.querySelector(".drum").classList.add("pressed");
+  setTimeout(function(){
+  document.querySelector(".drum").classList.remove("pressed");
+  },100)
+});
 
 //===========================keyboard event Handler==========================//
 document.addEventListener("keydown", function(event){
