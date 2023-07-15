@@ -1,2 +1,3 @@
 # Drum-Kit
-DRUM ROLL!!!!!! A cool website which allows you play DRUMS Online.
+***DRUM ROLLs🥁🥁🥁🥁***
+A fantastic website which allows you to play the drums online.
